@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: rgb(5, 12, 54);
+    height: 50px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.title{
+    color: aliceblue;
+    font-weight: 200;
+    font-size: x-large;
+}
+.location p{
+    color: aliceblue;
+    font-weight: normal;
+}
+.input{
+    width: 300px;
+    height: 30px;
+}
+.account{
+    color: aliceblue;
+    font-family: "Radio Canada Big", sans-serif;
+}
+.list{
+    font-weight:bold;   
+}
+.cart{
+    color: aliceblue;
+    font-family: "Radio Canada Big", sans-serif;
+    font-weight:bold; 
+}
+.belownavbar{
+    background-color: rgb(23, 32, 83);
+    height: 30px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;  
+}
+    
